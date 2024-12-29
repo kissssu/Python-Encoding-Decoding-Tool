@@ -10,7 +10,7 @@ This script is a command-line tool for encoding and decoding strings using vario
 ## Requirements
 - Python 3.x
 
-## Usage
+## Usage 
 - Run the script using the command line with the following structure:
 ```bash
 python3 encoder_tool.py [BASE] [ACTION] [STRING]
