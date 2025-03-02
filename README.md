@@ -16,6 +16,25 @@ This script is a command-line tool for encoding and decoding strings using vario
 
 Python 3.x
 
+## How to Run
+
+1.  **Clone the Repository:**
+    ```bash
+    git clone [https://github.com/kissssu/Python-Encoding-Decoding-Tool](https://github.com/kissssu/Python-Encoding-Decoding-Tool)
+    cd Python-Encoding-Decoding-Tool
+    ```
+    
+2.  **Make the Script Executable:**
+    ```bash
+    chmod +x encoder_tool.py
+    ```
+    (chmod +x encoder_tool.py - chmod +x encoder_tool.py (make the file executable))
+
+3.  **Run the Script:**
+    ```bash
+    python3 encoder_tool.py -h
+    ```
+
 ## Usage
 
 Run the script using the command line with the following structure:
