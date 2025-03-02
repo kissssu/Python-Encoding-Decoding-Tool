@@ -20,7 +20,7 @@ Python 3.x
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/kissssu/Python-Encoding-Decoding-Tool](https://github.com/kissssu/Python-Encoding-Decoding-Tool)
+    git clone https://github.com/kissssu/Python-Encoding-Decoding-Tool.git
     cd Python-Encoding-Decoding-Tool
     ```
     
