@@ -61,9 +61,7 @@ python3 encoder_tool.py [BASE] [ACTION] [STRING]
 
 ## Output:
 ```bash
-python3 encoder_tool.py -h 
-```
-```
+$ python3 encoder_tool.py -h 
 usage: encoder_tool.py -b64/-b32/-b16/-b8/-u -e/-d cipher
 
 Tool used to encode/decode in base64, base32, base16, base8 & URL.
